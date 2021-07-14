@@ -6,7 +6,7 @@ const Topbar = () => {
     return (
         <div className="headerstyle1">
             {/* <!--Section--> */}
-		<div className="banner-1 cover-image bg-background2" data-image-src="../../assets/images/banners/banner1.jpg">
+		<div className="banner-1 cover-image bg-background2" data-image-src="/assets/images/banners/banner1.jpg">
 			{/* <!--Topbar--> */}
 			<div className="header-main">
 				<div className="top-bar">
@@ -273,7 +273,7 @@ const Topbar = () => {
 											<div className="border-bottom">
 												<div className="d-flex pl-3 pr-4 pt-2 pb-3 align-items-center">
 													<div className="">
-														<img src="../../assets/images/media/pictures/small/01.jpg" className="br-4" alt="img"/>
+														<img src="/assets/images/media/pictures/small/01.jpg" className="br-4" alt="img"/>
 													</div>
 													<div className="d-flex">
 														<div className="pl-3">
@@ -290,7 +290,7 @@ const Topbar = () => {
 											<div className="border-bottom">
 												<div className="d-flex pl-3 pr-4 pt-2 pb-3 align-items-center">
 													<div className="">
-														<img src="../../assets/images/media/pictures/small/02.jpg" className="br-4" alt="img"/>
+														<img src="/assets/images/media/pictures/small/02.jpg" className="br-4" alt="img"/>
 													</div>
 													<div className="d-flex">
 														<div className="pl-3">
@@ -307,7 +307,7 @@ const Topbar = () => {
 											<div className="border-bottom">
 												<div className="d-flex pl-3 pr-4 pt-2 pb-3 align-items-center">
 													<div className="">
-														<img src="../../assets/images/media/pictures/small/03.jpg" className="br-4" alt="img"/>
+														<img src="/assets/images/media/pictures/small/03.jpg" className="br-4" alt="img"/>
 													</div>
 													<div className="d-flex">
 														<div className="pl-3">
@@ -324,7 +324,7 @@ const Topbar = () => {
 											<div className="border-bottom">
 												<div className="d-flex pl-3 pr-4 pt-2 pb-3 align-items-center">
 													<div className="">
-														<img src="../../assets/images/media/pictures/small/04.jpg" className="br-4" alt="img"/>
+														<img src="/assets/images/media/pictures/small/04.jpg" className="br-4" alt="img"/>
 													</div>
 													<div className="d-flex">
 														<div className="pl-3">
@@ -341,7 +341,7 @@ const Topbar = () => {
 											<div className="">
 												<div className="d-flex pl-3 pr-4 pt-2 pb-3 align-items-center">
 													<div className="">
-														<img src="../../assets/images/media/pictures/small/05.jpg" className="br-4" alt="img"/>
+														<img src="/assets/images/media/pictures/small/05.jpg" className="br-4" alt="img"/>
 													</div>
 													<div className="d-flex">
 														<div className="pl-3">
@@ -452,7 +452,7 @@ const Topbar = () => {
 											<a className="dropdown-item border-bottom" href="#">
 												<div className="d-flex align-items-center">
 													<div className="">
-														<span className="avatar avatar-md brround align-self-center cover-image" data-image-src="../../assets/images/users/male/1.jpg"></span>
+														<span className="avatar avatar-md brround align-self-center cover-image" data-image-src="/assets/images/users/male/1.jpg"></span>
 													</div>
 													<div className="d-flex">
 														<div className="pl-3">
@@ -467,7 +467,7 @@ const Topbar = () => {
 											<a className="dropdown-item border-bottom">
 												<div className="d-flex align-items-center">
 													<div className="">
-														<span className="avatar avatar-md brround  align-self-center cover-image" data-image-src="../../assets/images/users/female/1.jpg"></span>
+														<span className="avatar avatar-md brround  align-self-center cover-image" data-image-src="/assets/images/users/female/1.jpg"></span>
 													</div>
 													<div className="d-flex">
 														<div className="pl-3">
@@ -482,7 +482,7 @@ const Topbar = () => {
 											<a className="dropdown-item border-bottom">
 												<div className="d-flex align-items-center">
 													<div className="">
-														<span className="avatar avatar-md brround  align-self-center cover-image" data-image-src="../../assets/images/users/male/2.jpg"></span>
+														<span className="avatar avatar-md brround  align-self-center cover-image" data-image-src="/assets/images/users/male/2.jpg"></span>
 													</div>
 													<div className="d-flex">
 														<div className="pl-3">
@@ -497,7 +497,7 @@ const Topbar = () => {
 											<a className="dropdown-item border-bottom">
 												<div className="d-flex align-items-center">
 													<div className="">
-														<span className="avatar avatar-md brround align-self-center cover-image" data-image-src="../../assets/images/users/female/2.jpg"></span>
+														<span className="avatar avatar-md brround align-self-center cover-image" data-image-src="/assets/images/users/female/2.jpg"></span>
 													</div>
 													<div className="d-flex">
 														<div className="pl-3">
@@ -512,7 +512,7 @@ const Topbar = () => {
 											<a className="dropdown-item border-bottom">
 												<div className="d-flex align-items-center">
 													<div className="">
-														<span className="avatar avatar-md brround  align-self-center cover-image" data-image-src="../../assets/images/users/male/4.jpg"></span>
+														<span className="avatar avatar-md brround  align-self-center cover-image" data-image-src="/assets/images/users/male/4.jpg"></span>
 													</div>
 													<div className="d-flex">
 														<div className="pl-3">
@@ -527,7 +527,7 @@ const Topbar = () => {
 											<a className="dropdown-item border-bottom">
 												<div className="d-flex align-items-center">
 													<div className="">
-														<span className="avatar avatar-md brround  align-self-center cover-image" data-image-src="../../assets/images/users/female/5.jpg"></span>
+														<span className="avatar avatar-md brround  align-self-center cover-image" data-image-src="/assets/images/users/female/5.jpg"></span>
 													</div>
 													<div className="d-flex">
 														<div className="pl-3">
@@ -602,8 +602,8 @@ const Topbar = () => {
 				<div className="horizontal-header clearfix ">
 					<div className="container">
 						<a id="horizontal-navtoggle" className="animated-arrow"><span></span></a>
-						<span className="smllogo"><img src="../../assets/images/brand/logo1.png" width="120" alt="img"/></span>
-						<span className="smllogo-white"><img src="../../assets/images/brand/logo.png" width="120" alt="img"/></span>
+						<span className="smllogo"><img src="/assets/images/brand/logo1.png" width="120" alt="img"/></span>
+						<span className="smllogo-white"><img src="/assets/images/brand/logo.png" width="120" alt="img"/></span>
 						<a href="tel:245-6325-3256" className="callusbtn"><i className="fa fa-phone" aria-hidden="true"></i></a>
 					</div>
 				</div>
@@ -663,7 +663,7 @@ const Topbar = () => {
 														<li className="title">User pages</li>
 														<li><a href="userprofile.html"> User Profile</a></li>
 														<li aria-haspopup="true"><a href="profile.html">User Profile 1</a></li>
-														<li><Link href="/DashAdmin/editProfile"><a>My Dashboard</a></Link></li>
+														<li><Link href="/dashboards/DashAdmin/editProfile"><a>My Dashboard</a></Link></li>
 														<li><a href="mydash1.html">My Dashboard1</a></li>
 														<li><a href="myads.html">My Ads</a></li>
 														<li><a href="myfavorite.html">Favorite Ads</a></li>

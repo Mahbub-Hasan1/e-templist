@@ -4753,7 +4753,7 @@ btn.dropdown-toggle~.dropdown-menu {
 }
 
 .card-blog-overlay {
-    background: url(../../assets/images/media/thumbnails/thumb2.jpg);
+    background: url(/assets/images/media/thumbnails/thumb2.jpg);
     background-size: cover;
     position: relative;
 }
@@ -4772,17 +4772,17 @@ btn.dropdown-toggle~.dropdown-menu {
 }
 
 .card-blog-overlay1 {
-    background: url(../../assets/images/media/thumbnails/thumb3.jpg);
+    background: url(/assets/images/media/thumbnails/thumb3.jpg);
     background-size: cover;
 }
 
 .card-blog-overlay2 {
-    background: url(../../assets/images/banners/banner3.jpg);
+    background: url(/assets/images/banners/banner3.jpg);
     background-size: cover;
 }
 
 .card-blog-overlay3 {
-    background: url(../../assets/images/media/0-4.jpg);
+    background: url(/assets/images/media/0-4.jpg);
     background-size: cover;
 }
 
