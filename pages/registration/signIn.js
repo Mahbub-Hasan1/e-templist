@@ -1,5 +1,6 @@
 import React from 'react';
 import SubscribeOnlineLetters from '../../components/shareComponents/SubscribeOnlineLetters';
+import Link from 'next/link';
 
 const signIn = () => {
     return (
@@ -61,7 +62,7 @@ const signIn = () => {
                                             <a className="btn ripple  btn-primary btn-block" href="#">Login</a>
                                         </div>
                                         <p className="mb-2"><a href="forgot.html" >Forgot Password</a></p>
-                                        <p className="text-dark mb-0">Don't have account?<a href="register.html" className="text-primary ml-1">Sign UP</a></p>
+                                        <p className="text-dark mb-0">Don't have account?<Link href="/registration/signUp"><a className="text-primary ml-1">Sign UP</a></Link></p>
                                     </form>
                                 </div>
                             </div>
